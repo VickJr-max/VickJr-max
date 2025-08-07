@@ -9,6 +9,4 @@
     <img src="https://github.com/user-attachments/assets/702ebc93-bdba-477b-97a3-286021983ac0" alt="Yakuza 6" />
     <img src="https://github.com/user-attachments/assets/702ebc93-bdba-477b-97a3-286021983ac0" alt="Yakuza 6" />
     <img src="https://github.com/user-attachments/assets/702ebc93-bdba-477b-97a3-286021983ac0" alt="Yakuza 6" />
-    <img src="https://github.com/user-attachments/assets/702ebc93-bdba-477b-97a3-286021983ac0" alt="Yakuza 6" />
-    <img src="https://github.com/user-attachments/assets/702ebc93-bdba-477b-97a3-286021983ac0" alt="Yakuza 6" />
   </p>
