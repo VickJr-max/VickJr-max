@@ -1,5 +1,5 @@
 <h1 style="font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: normal; margin-bottom: 1rem;">
-  Hi I love you. You can be a good programmer one day.
+  Hi I love you. <br>You can be a good programmer one day.
 </h1>
   <p style="text-align: left;">
     <img src="https://api.boot.dev/v1/users/public/03e4f1f5-3f97-40f2-acf2-e19bceb8a188/thumbnail" >
